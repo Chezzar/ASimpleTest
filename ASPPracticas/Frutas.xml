@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<frutas>
+  <fruta>
+    <frutaID>1</frutaID>
+    <frutaNombre>Manzana</frutaNombre>
+  </fruta>
+
+  <fruta>
+    <frutaID>2</frutaID>
+    <frutaNombre>Bannana</frutaNombre>
+  </fruta>
+
+  <fruta>
+    <frutaID>3</frutaID>
+    <frutaNombre>Watermelon</frutaNombre>
+  </fruta>
+
+  <fruta>
+    <frutaID>4</frutaID>
+    <frutaNombre>Strawberrie</frutaNombre>
+  </fruta>
+
+  <fruta>
+    <frutaID>5</frutaID>
+    <frutaNombre>Coconut</frutaNombre>
+  </fruta>
+</frutas>

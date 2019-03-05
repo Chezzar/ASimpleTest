@@ -1,0 +1,6 @@
+C:\Users\César\source\repos\ASPPracticas\WebService\bin\WebService.dll.config
+C:\Users\César\source\repos\ASPPracticas\WebService\bin\WebService.dll
+C:\Users\César\source\repos\ASPPracticas\WebService\bin\WebService.pdb
+C:\Users\César\source\repos\ASPPracticas\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\César\source\repos\ASPPracticas\WebService\obj\Debug\WebService.dll
+C:\Users\César\source\repos\ASPPracticas\WebService\obj\Debug\WebService.pdb
