@@ -1,0 +1,2 @@
+Contiene un ejemplo de uso de ASP de netcore un web service configurado para rest con wcf
+uso de soap(no funciona por que hay que modificar el archivo webconfig)
